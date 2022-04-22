@@ -1,0 +1,8 @@
+main()
+{
+ int abc124,b;
+ abc124=10;
+ b=abc124+20;
+ if(i>=15)then x=y;
+}
+
